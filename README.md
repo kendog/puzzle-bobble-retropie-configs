@@ -1,2 +1,2 @@
-# puzzle-bobble-retropie-configs-
-RetroPie configurations and customizations for my Puzzle Bobble cabinet.
+# puzzle-bobble-retropie-configs
+RetroPie configurations my custom Puzzle Bobble (Bust-a-Move) arcade cabinet.
